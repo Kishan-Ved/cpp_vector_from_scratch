@@ -1,5 +1,5 @@
 # cpp_vector_from_scratch
-C++ vector implemented from scratch for interviews
+C++ vector implemented from scratch
 
 Minimal implementation has only pushback and member access.
 
